@@ -10,14 +10,10 @@ Actualmente, mi objetivo es ingresar al sector, específicamente uniéndome a un
 
 ## Proyectos 🖥️
 
-| Habilidad                                     | Proyecto Asociado          |
-|-----------------------------------------------|----------------------------|
-| Implementación de SIEM y análisis de logs     | <a href="https://google.com">Detection Lab</a>|
-| Monitoreo de tráfico de red y detección de ataques | <a href="https://google.com">Detection Lab</a>|
-| Automatización de seguridad con Shuffle SOAR  | SOC Automation Lab|
-| Planificación y ejecución de respuesta a incidentes | SOC Automation Lab|
-| Gestión de casos con TheHive                  | SOC Automation Lab|
-| Scripting y automatización para mitigación de amenazas | SOC Automation Lab|
+| Proyecto                     | Link                                                                  |    
+|------------------------------|-----------------------------------------------------------------------|
+| Lets Defend Writeups         |[Link](https://github.com/edusec9/LetsDefend-Writeups)                 |
+| SOC Level I TryHackMe        |[Link](https://github.com/edusec9/SOC-Analyst-TryHackMe-Journey)       |
 
 ## Herramientas 🛠️
 

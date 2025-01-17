@@ -1,5 +1,5 @@
 # Bienvenido a mi perfil de GitHub! 👋
-### ¡Hola! Soy Tomás. Soy un apasionado estudiante de **Ciberseguridad**, interesado especialmente en el área del **Blue Team** 🔵.
+### ¡Hola! Soy Tomás. Soy un apasionado estudiante de **Ciberseguridad**, interesado especialmente en el **Blue Team** 🔵.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomas-eduardo-6ba980328/)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-2EAD33?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/r/p/TomasEduardo)

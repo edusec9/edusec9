@@ -10,9 +10,9 @@
 
 Actualmente, mi objetivo es ingresar al sector, específicamente uniéndome a un Centro de Operaciones de Seguridad (SOC) como Analista Tier 1 🛡️.
 
-## Proyectos 🖥️
+## Repositorios 🖥️
 
-| Proyecto                     | Link                                                                  |    
+| Repositorio                  | Link                                                                  |    
 |------------------------------|-----------------------------------------------------------------------|
 | Lets Defend Writeups         |[Link](https://github.com/edusec9/LetsDefend-Writeups)                 |
 | SOC Level I TryHackMe        |[Link](https://github.com/edusec9/SOC-Analyst-TryHackMe-Journey)       |

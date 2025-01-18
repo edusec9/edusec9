@@ -60,7 +60,9 @@ Actualmente, mi objetivo es ingresar al sector, específicamente uniéndome a un
 <img src="https://img.shields.io/badge/-Cyber%20Defense%20Certificate-0078D4?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ethical%20Hacker-36C1FF?style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Networking%20Basics-005073?style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Malicious%20Document%20Analysis-4A90E2?style=for-the-badge&logo=LetsDefend&logoColor=white" />
 <img src="https://img.shields.io/badge/-First%20Certificate%20in%20English%20(FCE)-A2BCE8?style=for-the-badge&logo=Cambridge%20International&logoColor=white" />
+    
 </div>
 
 ## Contacto 📬

@@ -14,9 +14,9 @@ Actualmente, mi objetivo es ingresar al sector, específicamente uniéndome a un
 
 | Repositorio                  | Link                                                                  |    
 |------------------------------|-----------------------------------------------------------------------|
-| SOC Home Lab Splunk - AD     |[Link](https://github.com/edusec9/SOC-Home-Lab-Splunk-ActiveDirectory) |
-| Lets Defend Writeups         |[Link](https://github.com/edusec9/LetsDefend-Writeups)                 |
+| SOC Home Lab                 |[Link](https://github.com/edusec9/SOC-Home-Lab-Splunk-ActiveDirectory) |
 | SOC Level I TryHackMe        |[Link](https://github.com/edusec9/SOC-Analyst-TryHackMe-Journey)       |
+| Lets Defend Writeups         |[Link](https://github.com/edusec9/LetsDefend-Writeups)                 |
 
 ## Herramientas 🛠️
 

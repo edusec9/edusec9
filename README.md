@@ -63,10 +63,4 @@
 <img src="https://img.shields.io/badge/-First%20Certificate%20in%20English%20(FCE)-A2BCE8?style=for-the-badge&logo=Cambridge%20International&logoColor=white" />
 </div>
 
-## Contact 📬
-
-| PGP  | Data               |
-|------|--------------------|
-| Mail | tomiedu@proton.me  |
-
 

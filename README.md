@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile
-### Hi, I'm Tomás. I'm currently working as a SOC Analyst Level 1. I specialize in monitoring, detecting, and analyzing security incidents in real-time. I'm passionate about threat hunting, log analysis, and improving incident response procedures.
+### Hi, I'm Tomás. I'm currently working as a SOC Analyst Level 1. Every day, I try to learn something new about this vast world. In addition, I would like to add more projects on GitHub soon.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomas-eduardo-6ba980328/)  
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-2EAD33?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/r/p/TomasEduardo)  
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Tshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint / EDR
+### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Vision%20One%20EDR-F5363F?&style=for-the-badge&logo=Trend%20Micro&logoColor=white" />
 </div>
@@ -46,21 +46,3 @@
     <img src="https://img.shields.io/badge/-AbuseIPDB-CC0000?&style=for-the-badge&logo=Tor&logoColor=white" />
     <img src="https://img.shields.io/badge/-AnyRun-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
-
-### Document Analysis
-<div>
-    <img src="https://img.shields.io/badge/-oleid-0064A4?&style=for-the-badge&logo=Analysis&logoColor=white" />
-    <img src="https://img.shields.io/badge/-olevba-0064A4?&style=for-the-badge&logo=Analysis&logoColor=white" />
-</div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-SOC%20Analyst%20Level%201-2EAD33?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cyber%20Defense%20Certificate-0078D4?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ethical%20Hacker-36C1FF?style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Malicious%20Document%20Analysis-4A90E2?style=for-the-badge&logo=LetsDefend&logoColor=white" />
-<img src="https://img.shields.io/badge/-First%20Certificate%20in%20English%20(FCE)-A2BCE8?style=for-the-badge&logo=Cambridge%20International&logoColor=white" />
-</div>
-
-

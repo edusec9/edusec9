@@ -29,7 +29,6 @@
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-QRadar-2B5C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 

@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile
 ###  Hi, my name is Tomás, and I'm 19 years old. I'm currently working as a SOC Analyst Level 1. Every day, I try to learn something new about this vast world. In addition, I would like to add more projects on GitHub soon.
 
-## Media
+## Find me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tomas-eduardo-6ba980328/)  
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-2EAD33?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/r/p/TomasEduardo)  
